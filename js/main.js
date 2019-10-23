@@ -26,8 +26,8 @@ $(function() {
         slidesToShow: 8,
         slidesToScroll: 1,
         arrows: false,
-        asNavFor: '.surf__slider',
-        focusOnSelect: true,
+        asNavFor: '.surf-slider',
+        focusOnSelect: true
     });
 
 });
